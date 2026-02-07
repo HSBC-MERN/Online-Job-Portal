@@ -108,7 +108,7 @@ $database = "online_job_portal";
 Open your browser and navigate to:
 
 ```
-http://localhost/Online-Job-Portal/
+http://localhost/online_job_portal/
 ```
 
 ---
